@@ -1,101 +1,94 @@
-# 👋 Olá, eu sou Jamison Fortes
+# Jamison Fortes
 
-> Construo sistemas sob medida, com impacto operacional, jurídico e social.  
-> Automação, backend robusto e produtos que resolvem problemas reais.
+Construo produtos que operam no mundo real, para o usuário real, resolvendo problemas reais, onde o dinheiro está em jogo.
 
----
+Sou desenvolvedor, empreendedor e estudante de Direito. Não nessa ordem necessariamente.  
+Moro em Ponta Grossa (PR) e já coloquei em produção sistemas que rodam hoje na cidade e no estado.
 
-## ⚙️ O que eu faço, objetivamente
-
-- Desenvolvedor full stack com foco em **backend, automação e arquitetura**
-- Empreendedor criando **produtos SaaS e sistemas sob medida**
-- Estudante de **Direito**, aplicando tecnologia à operação jurídica e empresarial
-- Experiência real em **logística, operações de campo e gestão de risco**
-
-Nada aqui é projeto de curso. Tudo roda (ou vai rodar) em produção.
+Founder Pyloto Multi Serviços Ltda.
 
 ---
 
-## 🧠 Esses eu domino
+## O que está rodando agora
 
-- 📦 **Logística & intermediação de serviços**
-- 🚗 **Avaliação, venda e intermediação automotiva**
-- ⚖️ **Sistemas jurídicos, contratos e automação legal**
-- 🤖 **IA aplicada a fluxos reais (WhatsApp, CRM, FSM, automações)**
-- 🔐 **Segurança, observabilidade e rastreabilidade de sistemas**
+### Pyloto Entrega
+Sistema de intermediação de entregas via WhatsApp, operando em Ponta Grossa.  
+Conecta quem precisa enviar com quem entrega. Sem app para o solicitante, sem fricção e sem burocracia.
 
----
+Arquitetura modular com FSM, integração com WhatsApp Cloud API e painel web para gestão da operação.  
+O módulo financeiro roda em Java puro. O app do entregador é nativo em Kotlin.
 
-## 🧱 Stack principal
+Infraestrutura distribuída em VMs Oracle: aplicação, financeiro e banco de dados em instâncias separadas, orquestradas com Kubernetes e containerizadas com Docker.
 
-**Backend**
-- Python (Flask, automações, APIs)
-- Node.js / TypeScript (Cloudflare Workers, APIs modernas)
-- PostgreSQL, D1, KV, R2
-
-**Frontend**
-- Next.js (App Router)
-- React, Tailwind, Shadcn/UI
-
-**Infra & DevOps**
-- Cloudflare (Workers, Pages, D1, R2, Queues)
-- Docker, GitHub Actions
-- Linux (Parrot OS, WSL)
-
-**Integrações**
-- WhatsApp Cloud API (Meta)
-- Pagamentos (Pix, gateways)
-- OpenAI API (IA conversacional e agentes)
+> TypeScript · Java · Kotlin · PostgreSQL · WhatsApp API · IA conversacional · Oracle Cloud · Kubernetes
 
 ---
 
-## 🚀 Projetos principais
+### Fechoo
+Plataforma de intermediação e avaliação automotiva.  
+CRM, comissões, dashboard financeiro e modelo de expansão por franquias.
 
-### 🟢 Pyloto
-Ecossistema de **intermediação de entregas e serviços via WhatsApp**  
-Arquitetura modular, FSM, pagamentos, painel web e foco em impacto social.
+Implantado no edge via Cloudflare Workers e Pages. Sem servidor para gerenciar :)
 
-> Backend em Python + WhatsApp API + IA + PostgreSQL
-
-### 🟠 Fechoo
-Plataforma de **intermediação e avaliação automotiva**, com CRM, comissões,
-dashboard financeiro e expansão via franquias.
-
-> Stack moderna com TypeScript, Next.js e Cloudflare
+> TypeScript · Next.js · Cloudflare Workers · Pages · D1 · R2
 
 ---
 
-## 📊 GitHub em números
+## Stack
+
+**Onde passo a maior parte do tempo**  
+TypeScript — backend, APIs, Workers, integrações.  
+Python — automações, scripts, integrações pontuais.  
+Java e Kotlin — quando o domínio exige robustez ou mobile nativo.
+
+**Frontend quando necessário**  
+Next.js, React, Tailwind, Shadcn/UI.
+
+**Infra**  
+Oracle Cloud (VMs isoladas por domínio) · Cloudflare Workers, Pages, D1, R2, Queues  
+Docker · Kubernetes · GitHub Actions
+
+**Integrações que já resolvi**  
+WhatsApp Cloud API · Pix e gateways de pagamento · OpenAI API
+
+---
+
+## Segurança
+
+No tempo livre trabalho com segurança ofensiva e análise.  
+Uso Parrot OS como sistema principal — pentest, análise forense e engenharia reversa fazem parte da rotina.
+
+Isso influencia diretamente como eu projeto sistemas: autenticação, rastreabilidade, superfície de ataque e observabilidade não são afterthought.
+
+---
+
+## Contexto
+
+Tenho experiência real em logística, operações de campo e gestão de risco — não só no código.  
+Isso muda como eu projeto um sistema: começo pelo problema operacional, não pela tecnologia.
+
+Estudo Direito aplicando isso direto: automação de contratos, sistemas jurídicos, rastreabilidade de operações.
+
+---
+
+## GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JamisNabosna&show_icons=true&theme=transparent&hide_title=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamisNabosna&layout=compact&theme=transparent" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=JamisNabosna&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fortescwb&theme=transparent&hide_border=true&layout=compact" />
 </p>
 
 ---
 
-## 🧩 Como eu trabalho
+## Se quiser conversar
 
-- Código modular, testável e com responsabilidade clara
-- Documentação não é opcional
-- Automação sempre que houver repetição
+Estou sempre aberto para quem quer construir algo sério.
+Um produto, uma automação, um sistema que precise sobreviver à operação e ao mundo real.
 
----
+📫 Me chama.
 
-## 📬 Contato e parcerias
-
-Se você quer:
-- Criar um produto sério  
-- Automatizar uma operação real  
-- Construir algo que precise escalar e sobreviver  
-
-📫 **Vamos conversar.**
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jfs_jamis)
 
 ---
 
-> *Tecnologia não serve para parecer inteligente.  
-> Serve para resolver problemas que custam dinheiro, tempo e dignidade.*
+*Tecnologia não serve para parecer inteligente.  
+Serve para resolver problemas que custam dinheiro, tempo e dignidade.*
