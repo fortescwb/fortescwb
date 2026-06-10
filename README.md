@@ -2,7 +2,7 @@
 
 Construo produtos que operam no mundo real, para o usuário real, resolvendo problemas reais, onde o dinheiro está em jogo.
 
-Sou desenvolvedor, empreendedor e estudante de Direito. Não nessa ordem necessariamente.  
+Sou desenvolvedor, empreendedor e estudante de Direito. Não necessariamente nessa ordem.  
 Moro em Ponta Grossa (PR) e já coloquei em produção sistemas que rodam hoje na cidade e no estado.
 
 Founder Pyloto Multi Serviços Ltda.
