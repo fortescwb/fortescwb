@@ -1,94 +1,19 @@
-# Jamison Fortes
+# Jamison Nabosna
 
-Construo produtos que operam no mundo real, para o usuário real, resolvendo problemas reais, onde o dinheiro está em jogo.
+**Português** · [English](#english)
 
-Sou desenvolvedor, empreendedor e estudante de Direito. Não necessariamente nessa ordem.  
-Moro em Ponta Grossa (PR) e já coloquei em produção sistemas que rodam hoje na cidade e no estado.
+Fundador e CEO/CTO da [Pyloto Multi Serviços](https://www.pyloto.com.br), em Ponta Grossa (PR). Desenvolvo sistemas de gestão, e-commerce e uma plataforma de entregas sob demanda, e conduzo o ciclo completo com o cliente: diagnóstico do negócio, proposta, contrato, arquitetura, implantação e acompanhamento por indicadores. Disponível para trabalho remoto.
 
-Founder Pyloto Multi Serviços Ltda.
-
----
-
-## O que está rodando agora
-
-### Pyloto Entrega
-Sistema de intermediação de entregas via WhatsApp, operando em Ponta Grossa.  
-Conecta quem precisa enviar com quem entrega. Sem app para o solicitante, sem fricção e sem burocracia.
-
-Arquitetura modular com FSM, integração com WhatsApp Cloud API e painel web para gestão da operação.  
-O módulo financeiro roda em Java puro. O app do entregador é nativo em Kotlin.
-
-Infraestrutura distribuída em VMs Oracle: aplicação, financeiro e banco de dados em instâncias separadas, orquestradas com Kubernetes e containerizadas com Docker.
-
-> TypeScript · Java · Kotlin · PostgreSQL · WhatsApp API · IA conversacional · Oracle Cloud · Kubernetes
+- **Currículo:** [jamison.pyloto.com.br](https://jamison.pyloto.com.br/pt/), com download em PDF
+- **Stack:** TypeScript, Node.js, NestJS, Java, Python, React Native, PostgreSQL, Redis, Docker, Cloudflare, Oracle Cloud
+- **Amostra de código:** [fortescwb/resume](https://github.com/fortescwb/resume), o próprio site do currículo (Astro, TypeScript, Cloudflare Workers, CI com Lighthouse)
 
 ---
 
-### Fechoo
-Plataforma de intermediação e avaliação automotiva.  
-CRM, comissões, dashboard financeiro e modelo de expansão por franquias.
+## English
 
-Implantado no edge via Cloudflare Workers e Pages. Sem servidor para gerenciar :)
+Founder and CEO/CTO of [Pyloto Multi Serviços](https://www.pyloto.com.br), a Brazilian software company building management systems, e-commerce and an on-demand delivery platform. I run the full client cycle: business diagnosis, proposal, contract, architecture, rollout and KPI-based follow-up. Open to remote work.
 
-> TypeScript · Next.js · Cloudflare Workers · Pages · D1 · R2
-
----
-
-## Stack
-
-**Onde passo a maior parte do tempo**  
-TypeScript — backend, APIs, Workers, integrações.  
-Python — automações, scripts, integrações pontuais.  
-Java e Kotlin — quando o domínio exige robustez ou mobile nativo.
-
-**Frontend quando necessário**  
-Next.js, React, Tailwind, Shadcn/UI.
-
-**Infra**  
-Oracle Cloud (VMs isoladas por domínio) · Cloudflare Workers, Pages, D1, R2, Queues  
-Docker · Kubernetes · GitHub Actions
-
-**Integrações que já resolvi**  
-WhatsApp Cloud API · Pix e gateways de pagamento · OpenAI API
-
----
-
-## Segurança
-
-No tempo livre trabalho com segurança ofensiva e análise.  
-Uso Parrot OS como sistema principal — pentest, análise forense e engenharia reversa fazem parte da rotina.
-
-Isso influencia diretamente como eu projeto sistemas: autenticação, rastreabilidade, superfície de ataque e observabilidade não são afterthought.
-
----
-
-## Contexto
-
-Tenho experiência real em logística, operações de campo e gestão de risco — não só no código.  
-Isso muda como eu projeto um sistema: começo pelo problema operacional, não pela tecnologia.
-
-Estudo Direito aplicando isso direto: automação de contratos, sistemas jurídicos, rastreabilidade de operações.
-
----
-
-## GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fortescwb&theme=transparent&hide_border=true&layout=compact" />
-</p>
-
----
-
-## Se quiser conversar
-
-Estou sempre aberto para quem quer construir algo sério.
-Um produto, uma automação, um sistema que precise sobreviver à operação e ao mundo real.
-
-📫 Me chama.
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jfs_jamis)
-
----
-
-*Tecnologia não serve para parecer inteligente.  
-Serve para resolver problemas que custam dinheiro, tempo e dignidade.*
+- **Resume:** [jamison.pyloto.com.br](https://jamison.pyloto.com.br/en/), with a PDF download
+- **Stack:** TypeScript, Node.js, NestJS, Java, Python, React Native, PostgreSQL, Redis, Docker, Cloudflare, Oracle Cloud
+- **Code sample:** [fortescwb/resume](https://github.com/fortescwb/resume), the source of the resume site (Astro, TypeScript, Cloudflare Workers, CI with Lighthouse)
